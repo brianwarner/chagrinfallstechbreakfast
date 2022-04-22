@@ -1,9 +1,6 @@
 
-# Chagrin Falls Tech Breakfast
-## Bring your wallet | No speeches
-
 <p align="center">
-<img src="logo.svg" width="400px">
+<img src="logo.svg" width="300px">
 </p>
 
 The Chagrin Falls Tech Breakfast is an informal group that meets for breakfast monthly. We're open to any tech discipline and any level of experience, from complete newcomers to experienced veterans.
