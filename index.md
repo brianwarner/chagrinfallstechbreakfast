@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Chagrin Falls Tech Breakfast
+## Bring your wallet | No speeches
 
-You can use the [editor on GitHub](https://github.com/brianwarner/chagrinfallstechbreakfast/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+<img src="logo.svg" width="400px">
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Chagrin Falls Tech Breakfast is an informal group that meets for breakfast monthly. We're open to any tech discipline and any level of experience, from complete newcomers to experienced veterans.
 
-### Markdown
+We intentionally have no set agendas aside from getting to know the local tech community better and, of course, eating breakfast. Job seekers and recruiters are welcome.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thanks to everyone who has participated in our gatherings so far! With so many of us working remotely or for smaller companies, it's great to have a chance to connect outside of the workday.
 
-```markdown
-Syntax highlighted code block
+### How to find us
 
-# Header 1
-## Header 2
-### Header 3
+We generally meet at a restaurant around Chagrin Falls before work on a Friday morning. If you plan to join us, please [RSVP on our meetup.com group](https://www.meetup.com/Chagrin-Falls-Tech-Breakfast/) in advance so we know how large of a table to request.
 
-- Bulleted
-- List
+Membership in this group is free, just please remember to bring your wallet since we all pay for our meals individually. When you arrive at the restaurant please ask at the host stand for the "Tech breakfast," and they'll point you in our direction.
 
-1. Numbered
-2. List
+To participate, please [join our meetup.com group](https://www.meetup.com/Chagrin-Falls-Tech-Breakfast/). We also have a [Slack](https://join.slack.com/t/cf-tech/shared_invite/zt-7wpr6mzk-JFyRQoJQzMlKP6r71R9VOw) for continuing conversations between gatherings.
 
-**Bold** and _Italic_ and `Code` text
+If you’re looking for job opportunities in the area, please don’t be shy! If you have business cards, bring them. If you want to exchange LinkedIn information during breakfast, do it. We also have an #opportunities channel in Slack for job seeking and job postings.
 
-[Link](url) and ![Image](src)
-```
+### Questions?
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+If you have any questions, please feel free to send a message via the [meetup.com group](https://www.meetup.com/Chagrin-Falls-Tech-Breakfast/) or ask in [Slack](https://join.slack.com/t/cf-tech/shared_invite/zt-7wpr6mzk-JFyRQoJQzMlKP6r71R9VOw). The Meetup group organizers are Brian Warner and Adam Anthony, and Slack is administered by Scott Rolf.
 
-### Jekyll Themes
+We hope you can join us!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brianwarner/chagrinfallstechbreakfast/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p align="center">
+<a href="https://www.meetup.com/Chagrin-Falls-Tech-Breakfast/"><img src="./meetup.svg" width="200px"></a>
+</p>
+<p align="center">
+<a href="https://join.slack.com/t/cf-tech/shared_invite/zt-7wpr6mzk-JFyRQoJQzMlKP6r71R9VOw"><img src="./slack.svg" width="200px"></a>
+</p>
